@@ -3,3 +3,4 @@ Orange
 Green
 Blue
 Purple
+Cyan
